@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Projeto1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("\t ##### Auto Cadastro ##### ");
+        System.out.println("\t ###### Auto Cadastro ###### ");
         System.out.println("\t Bem-vindo(a) digite as informações do produto: ");
         System.out.println("\tDigite o nome do produto: ");
         String nome = scan.nextLine();
