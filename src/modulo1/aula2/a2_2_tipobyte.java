@@ -4,7 +4,7 @@ public class a2_2_tipobyte { // a classe é um esqueleto a qual não executa nad
     // o método executa algo. É uma função dentro da classe
     // Um procedimento executa algo e não tem retorno já uma função tem retorno.
     // Quando tem uma função e um procedimento dentro de uma classe ambos são métodos.
-
+    // Vai de -128 a 127
     //Declarando funções
     public static void main(String args[]) {
         // Método, nome, argumentos
