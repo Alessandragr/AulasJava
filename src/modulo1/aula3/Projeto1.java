@@ -14,8 +14,8 @@ public class Projeto1 {
         System.out.println("\tDigite a categoria do produto: ");
         String categoria = scan.nextLine();
         System.out.println("\tDigite o valor do produto: ");
-        double valor = scan.nextDouble();
+        float valor = scan.nextFloat();
 
-        System.out.printf("\tO produto foi cadastrado com sucesso!");
+        System.out.printf("\tO produto %s cuja descrição é:  %s na categoria: %s com valor %.2f foi cadastrado com sucesso!", nome, descricao,categoria,valor);
     }
 }
