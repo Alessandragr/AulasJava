@@ -37,3 +37,14 @@
 //        invalido = false;
 //        }
 //        }
+
+// while repete várias vezes e é executado somente uma vez. O do while permite acessar as informações do bloco de código.
+//int num = 1;
+//while (num >10) {
+// mult = 0;
+// whilw (mult >10) {
+// System.out.print(num*mult)
+// mult ++;
+// } num++;
+//}
+// com o dado captado faz só o while - já tem o dado, faz uma condição para validar
