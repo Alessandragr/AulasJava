@@ -9,11 +9,11 @@ public class a6_1_for {
 
 
         for(int cont =0; cont <4; cont++) {
-            System.out.println("Insira seu nome: ");
+            System.out.println("\nInsira seu nome: ");
             String nome = scan.nextLine();
             System.out.println("Insira seu sobrenome: ");
             String sobrenome = scan.nextLine();
-            System.out.printf("Foi cadastrado o nome: %s e o sobrenome: %s", nome, sobrenome);
+            System.out.printf("Foi cadastrado o nome: %s e o sobrenome: %s \t", nome, sobrenome);
         }
 
     }
